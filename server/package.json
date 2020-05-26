@@ -1,0 +1,17 @@
+{
+  "name": "fakedata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_users.js",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "g": "^2.0.1",
+    "json-server": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
